@@ -10,3 +10,4 @@ Type : Flexbox
 
 ## Objectif
 Uniquement via du CSS, dessiner les 6 faces d'un dés en utilisant les flexbox.
+![goal](docs/des.png)
