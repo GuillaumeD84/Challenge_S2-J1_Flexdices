@@ -6,6 +6,7 @@ Guillaume DURAND
 Promo : Explorer  
 S2-J1 | 09/10/2017
 
+Formateur : Lucie  
 Type : Flexbox
 
 ## Objectif
